@@ -2,6 +2,12 @@
   "name": "svelte-tailwind-boilerplate",
   "private": true,
   "version": "0.0.1",
+  "description": "A basic setup for sveltejs with tailwindcss",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brownymister/svelte-tailwind-boilerplate.git"
+  },
+  "author":"Julian",
   "type": "module",
   "scripts": {
     "dev": "vite",
