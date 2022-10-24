@@ -8,3 +8,8 @@ Biolerplate project for using tailwind within svelte.
 3. Navigate to the project directory: `cd <YOUR_PROJECT_NAME>`
 4. Run `npm install` 
 5. Run `npm run dev` for starting the dev server.
+
+## Contributing
+
+All contributions are very welcome. Feel free to open an issue or a pr (to the Dev branch).
+
