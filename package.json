@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/brownymister/svelte-tailwind-boilerplate.git"
   },
-  "author":"Julian",
+  "author": "Julian",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -21,6 +21,7 @@
     "postcss-load-config": "^4.0.1",
     "svelte": "^3.49.0",
     "svelte-preprocess": "^4.10.7",
+    "svelte-routing": "^1.6.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "vite": "^3.1.0"
   }
